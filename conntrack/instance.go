@@ -14,8 +14,8 @@ import (
 	"github.com/anacrolix/stm"
 	"github.com/anacrolix/stm/stmutil"
 
-	"github.com/anacrolix/missinggo/v2"
-	"github.com/anacrolix/missinggo/v2/iter"
+	"github.com/mugenrei/missinggo/v2"
+	"github.com/mugenrei/missinggo/v2/iter"
 )
 
 type reason = string

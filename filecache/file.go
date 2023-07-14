@@ -5,7 +5,7 @@ import (
 	"os"
 	"sync"
 
-	"github.com/anacrolix/missinggo/v2/pproffd"
+	"github.com/mugenrei/missinggo/v2/pproffd"
 )
 
 type File struct {

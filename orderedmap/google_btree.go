@@ -1,7 +1,7 @@
 package orderedmap
 
 import (
-	"github.com/anacrolix/missinggo/iter"
+	"github.com/mugenrei/missinggo/iter"
 	"github.com/google/btree"
 )
 

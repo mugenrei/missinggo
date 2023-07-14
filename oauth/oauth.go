@@ -8,7 +8,7 @@ import (
 	"net/http"
 	"net/url"
 
-	"github.com/anacrolix/missinggo/patreon"
+	"github.com/mugenrei/missinggo/patreon"
 )
 
 func SimpleParser(r *http.Response) (UserProfile, error) {

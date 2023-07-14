@@ -8,8 +8,8 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 
-	"github.com/anacrolix/missinggo/iter"
-	"github.com/anacrolix/missinggo/slices"
+	"github.com/mugenrei/missinggo/iter"
+	"github.com/mugenrei/missinggo/slices"
 )
 
 func TestEmptyBitmap(t *testing.T) {
@@ -91,7 +91,7 @@ func TestLimits(t *testing.T) {
 
 	// We can't reliably test out of bounds for systems where int is only 32-bit. Rather than guess
 	// for every possible GOARCH, I'll just skip the test here. The BitIndex/int wrapper around
-	// roaring's types are bad anyway. See https://github.com/anacrolix/missinggo/issues/16.
+	// roaring's types are bad anyway. See https://github.com/mugenrei/missinggo/issues/16.
 
 	//assert.Panics(t, func() { bm.Add(math.MaxInt64) })
 

@@ -5,7 +5,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/anacrolix/missinggo/v2/resource"
+	"github.com/mugenrei/missinggo/v2/resource"
 )
 
 type uniformResourceProvider struct {

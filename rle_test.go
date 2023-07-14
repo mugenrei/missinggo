@@ -3,7 +3,7 @@ package missinggo_test
 import (
 	"fmt"
 
-	"github.com/anacrolix/missinggo/v2"
+	"github.com/mugenrei/missinggo/v2"
 )
 
 func ExampleNewRunLengthEncoder() {

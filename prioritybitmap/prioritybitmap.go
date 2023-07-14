@@ -4,9 +4,9 @@ package prioritybitmap
 import (
 	"sync"
 
-	"github.com/anacrolix/missinggo/bitmap"
-	"github.com/anacrolix/missinggo/iter"
-	"github.com/anacrolix/missinggo/orderedmap"
+	"github.com/mugenrei/missinggo/bitmap"
+	"github.com/mugenrei/missinggo/iter"
+	"github.com/mugenrei/missinggo/orderedmap"
 )
 
 // The interface used for non-singleton bit-sets for each priority level.

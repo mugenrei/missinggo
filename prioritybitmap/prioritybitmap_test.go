@@ -6,7 +6,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/anacrolix/missinggo/iter"
+	"github.com/mugenrei/missinggo/iter"
 )
 
 func TestEmpty(t *testing.T) {

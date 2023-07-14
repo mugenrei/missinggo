@@ -3,7 +3,7 @@ package orderedmap
 import (
 	"testing"
 
-	"github.com/anacrolix/missinggo/iter"
+	"github.com/mugenrei/missinggo/iter"
 	"github.com/stretchr/testify/assert"
 )
 

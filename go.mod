@@ -1,11 +1,11 @@
-module github.com/anacrolix/missinggo
+module github.com/mugenrei/missinggo
 
 require (
 	crawshaw.io/sqlite v0.3.2
 	github.com/RoaringBitmap/roaring v0.4.23
 	github.com/anacrolix/envpprof v1.1.0
 	github.com/anacrolix/log v0.6.0
-	github.com/anacrolix/missinggo v1.2.1
+	github.com/mugenrei/missinggo v1.2.1
 	github.com/anacrolix/stm v0.2.0
 	github.com/anacrolix/tagflag v1.1.0
 	github.com/bradfitz/iter v0.0.0-20191230175014-e8f45d346db8

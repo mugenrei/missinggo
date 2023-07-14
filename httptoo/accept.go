@@ -5,7 +5,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/anacrolix/missinggo/mime"
+	"github.com/mugenrei/missinggo/mime"
 )
 
 func ParseAccept(line string) (parsed AcceptDirectives, err error) {

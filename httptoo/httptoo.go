@@ -7,7 +7,7 @@ import (
 
 	"github.com/bradfitz/iter"
 
-	"github.com/anacrolix/missinggo/v2"
+	"github.com/mugenrei/missinggo/v2"
 )
 
 func OriginatingProtocol(r *http.Request) string {
