@@ -1,4 +1,4 @@
-module github.com/anacrolix/missinggo/v2
+module github.com/anacrolix/missinggo
 
 require (
 	crawshaw.io/sqlite v0.3.2
